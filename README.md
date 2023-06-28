@@ -1,7 +1,7 @@
 # SMS_Spam_Classifier
-A SMS-Spam-Classifier Model based on NLP(Natural Language Processing).
+A SMS-Spam-Classifier based on NLP(Natural Language Processing).
 # Introduction
-This project is to design an sms-spam classifier with the help of Natural Language Processing. In this project I have used datasets available on kaggle in order to train our sms-spam classifier model.
+This project is to design a sms-spam classifier with the help of Natural Language Processing. In this project I have used datasets available on kaggle in order to train our sms-spam classifier model.
 # Implementation Details
 
 ## Data Cleaning:
