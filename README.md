@@ -5,22 +5,22 @@ This project is to design a sms-spam classifier with the help of Natural Languag
 # Implementation Details
 
 ## Data Cleaning:
-1.Remove the nan columns from the data.
-2.Remove the duplicated values from the data.
+1. Remove the nan columns from the data.
+2. Remove the duplicated values from the data.
 
 ## Data Analysis:
 1. Perform analysis on the number of spam and ham messages by plotting a pie chart.
 2. Perform analysis on number of character,words,sentences for spam and ham mesaages.
 
 ## Data Preprocessing:
-1.Convert all the text data to lower case characters.
-2.Tokenize the text data.
-3.Remove stopwords, punctuations from the tokenized data.
-4.Apply stemming on the data to convert into root form.
+1. Convert all the text data to lower case characters.
+2. Tokenize the text data.
+3. Remove stopwords, punctuations from the tokenized data.
+4. Apply stemming on the data to convert into root form.
 
 ## Model Building:
-1.Vectorize the transformed data using tf-idf(Term Frequency-Inverse Document Frequency) algorithm.
-2.Train model using different classifier algorithms like Gaussian Naive Bayes,Multinomial Naive Bayes,Bernoulli Naive Bayes and compare the accuracy and precision score.
+1. Vectorize the transformed data using tf-idf(Term Frequency-Inverse Document Frequency) algorithm.
+2. Train model using different classifier algorithms like Gaussian Naive Bayes,Multinomial Naive Bayes,Bernoulli Naive Bayes and compare the accuracy and precision score.
 3. Choose model based on higher accuracy and precision score.
 
 Then I have deployed this sms-spam classifier on a local website.
