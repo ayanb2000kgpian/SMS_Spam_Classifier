@@ -10,7 +10,7 @@ This project is to design a sms-spam classifier with the help of Natural Languag
 
 ## Data Analysis:
 1. Perform analysis on the number of spam and ham messages by plotting a pie chart.
-2. Perform analysis on number of character,words,sentences for spam and ham mesaages.
+2. Perform analysis on number of character,words,sentences for spam and ham messages.
 
 ## Data Preprocessing:
 1. Convert all the text data to lower case characters.
